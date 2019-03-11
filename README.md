@@ -1,2 +1,2 @@
 # Revolution_Surface
-A Revolucion Surface made with his side face in Processing
+La tarea que nos ocupa en este trabajo consiste en crear un prototipo que recoja puntos de un perfil al hacer clic con el ratón sobre la pantalla, para finalmente crear un objeto tridimensional por medio de una superficie de revolución, almacenando la geometría resultante en una variable de tipo PShape. El prototipo permitirá crear sólidos de revolución de forma sucesiva, si bien se almacene únicamente el último definido.
